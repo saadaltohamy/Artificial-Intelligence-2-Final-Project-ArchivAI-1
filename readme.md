@@ -52,10 +52,6 @@ The notebook ``car_price.ipynb``
     - Train various machine learning models including Decision Tree, Random Forest, Gradient Boosting, XGBoost, LightGBM, and CatBoost.
     - Use stacking to combine the predictions of multiple models.
 
-5. **Prediction and Submission**:
-    - Make predictions on the test dataset.
-    - Save the predictions to a CSV file for submission.
-
 ## Usage
 
 To run the notebook, open ``car_price.ipynb``
